@@ -54,9 +54,6 @@ foreach($nama as $datanama){
     echo $datanama."<br>";
 }
 
-
-
-
-
+echo "<hr>";
 
 ?>

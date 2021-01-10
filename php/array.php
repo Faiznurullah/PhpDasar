@@ -8,6 +8,15 @@
 //cara menampilkan array//
 // echo $variabel[0]; /(array dimulai dari 0)/
 
+//contoh array//
+$mobil = array('Avanza', 'carry', 'Aplhard');
+echo $mobil[0]."<br>";
+
+
+$motor = array('Vario', 'Beat', 'Supra-X');
+echo "Kemarin Saya Naik Motor $motor[0] ";
+echo "<br>";
+
 
 //contoh//
 $makanan = array('mie goreng', 'Pizza Hut', 'Nasi goreng' );
@@ -17,6 +26,8 @@ echo $makanan[1]."<br>";
 echo $makanan[2]."<br>";
 
 echo "<hr>";
+
+
 
 
 //contoh 2//

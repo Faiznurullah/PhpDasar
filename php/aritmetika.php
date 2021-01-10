@@ -54,6 +54,14 @@ $nunda = $belanja - 5000;
 echo "<br>Total belanja $nunda = $belanja - 5000";
 echo "<hr>";
 
+/*contoh xixixi*/
+$apel = 12000;
+$jeruk = 15000;
+$jadi = $apel + $jeruk;
+
+echo "Jadi Anda Harus Membayar Buah Apel $apel dan Buah Jeruk $jeruk Senilai $jadi";
+echo "<hr>";
+
 
 
 

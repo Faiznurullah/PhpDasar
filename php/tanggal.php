@@ -9,6 +9,8 @@ echo "<br>";
 echo date('m-D-Y');
 echo "<br>";
 echo date('D-M/Y');
+echo "<br>";
+echo date('D:M:Y');
 
 
 
